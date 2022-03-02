@@ -1,0 +1,9 @@
+<html>
+<head></head>
+<body>
+<?php
+echo "Hello 丁丁";
+echo "我是林聖祐from資管113";
+?>
+</body>
+</html>
